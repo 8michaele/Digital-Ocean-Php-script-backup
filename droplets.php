@@ -1,6 +1,6 @@
 <?php
 
-// Created by: Michael - michael8e@icloud.com
+// Created by: Michael
 // licence: nothing, just use it and enjoy it.
 
 function token(){
