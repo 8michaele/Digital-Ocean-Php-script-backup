@@ -1,7 +1,6 @@
 <?php
 
 // Created by: Michael
-// licence: nothing, just use it and enjoy it.
 
 function token(){
     return 'TOKEN HERE';
