@@ -14,4 +14,4 @@ All you need to do is:
 
 2- Run a daily cronjob.
 
-3- That's all..
+3- That's all.
