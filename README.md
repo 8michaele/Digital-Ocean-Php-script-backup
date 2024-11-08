@@ -1,1 +1,3 @@
-## Hand Written Digit Recognition.
+## Password Checker.
+
+python checkmypass.py type-your-password
