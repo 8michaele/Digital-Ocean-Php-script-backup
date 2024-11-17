@@ -8,7 +8,7 @@ The script simply snapshots the droplets daily and delete the old ones except fo
 
 #### How to implement?
 
-All you need to do is:
+All you need to do is :
 
 1- Change the token in token function.
 
