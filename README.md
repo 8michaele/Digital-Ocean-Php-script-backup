@@ -16,7 +16,7 @@ All you need to do is:
 
 3- That's all.
 
-#### Open your terminal and type :
+#### Open your terminal and type:
 
 ```
 php droplets.php
